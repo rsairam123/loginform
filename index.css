@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 2px;
+}
+body{
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 3px;
+}
+h1{
+    text-align: center;
+}
